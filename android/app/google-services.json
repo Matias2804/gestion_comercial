@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444280629187",
+    "project_id": "gestion-comercial-8b953",
+    "storage_bucket": "gestion-comercial-8b953.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444280629187:android:84edec6433821aa8827f76",
+        "android_client_info": {
+          "package_name": "com.example.gestion_comercial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZvO-e3RVxGeZwsxmmmw63spCxBuNHbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
