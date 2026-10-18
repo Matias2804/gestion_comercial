@@ -53,3 +53,5 @@ app.*.map.json
 
 # Credenciales privadas de Firebase
 service-account*.json
+# Informes generados por Gradle
+android/build/
